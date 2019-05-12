@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557613351 source:c:\users\x\desktop\tp2 si\tp222\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"TP2.h"
+
+1557609257 c:\users\x\desktop\tp2 si\tp222\tp2.h
+
