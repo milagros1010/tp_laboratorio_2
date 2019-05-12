@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <conio.h>
 #include "TP2.h"
-#define TAM 3
+#define TAM  1000
 #define EVACIO 0
 #define EOCUPADO 1
 
